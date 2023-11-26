@@ -85,7 +85,7 @@ This deep dive isn't just about answering questions but setting the stage for a 
 2. *Location Impact:*
    - Mumbai takes the lead as the top location, securing the highest funding amount of $237.16 billion, followed by Bangalore with $36.33 billion. Gurugram, New Delhi, and California also received varying amounts of funding.
 3. *Null Hypothesis:*
-   - The analysis fails to reject the Null Hypothesis, indicating that the sector in which a startup operates doesn't significantly impact its funding amount.
+   - The analysis fails to reject the Null Hypothesis, indicating that the HeadQuarter in which a startup operates doesn't significantly impact its funding amount.
  4. *Sector-Specific Insights:*
    - Fintech, Retail, E-commerce, and Tech companies stand out as the sectors with the highest funding amounts.
 
