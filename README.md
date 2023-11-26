@@ -13,7 +13,7 @@
 
 
 
-  ## Project Overview
+## Project Overview
 Welcome to our project, "Exploring Trends in the Indian Startup Funding Ecosystem." Here, we delve deep into the Indian startup landscape, conducting a thorough analysis of data spanning from 2019 to 2021. Leveraging the power of Python and data visualization through Power BI, we, as data analysts in this venture, aspire to uncover captivating trends within the expansive funding landscape of Indian startups. Join us on this exploration as we unravel the story behind the numbers, shedding light on the intricate patterns that have shaped the financial journey of startups in India during this critical period. 
 ## Data sources 
 The data sources for this project are attributed to aAzubi Africa, providing access to information in three distinct parts. The initial dataset, encompassing data for 2020 and 2021, was securely stored in a database, accessible remotely. The second dataset, pertaining to the year 2019, was obtained from OneDrive. The final dataset, covering the year 2018, was sourced from a GitHub repository and was available in CSV format.
